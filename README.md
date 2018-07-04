@@ -4,7 +4,7 @@ Un semplice bot che vi permetterà di gestire canzoni e playlist di Youtube in u
 
 ## Installazione :heavy_check_mark:
 
-1. Procuratevi prima di tutto il token per utilizzare l'app su Discord e una chiave API di Google.
+1. Procuratevi prima di tutto il [token per utilizzare l'app su Discord](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token) e una [chiave API di Google](https://support.google.com/googleapi/answer/6158862?hl=en).
 2. Modificate il file `config.js` con i vostri dati
 3. Da un terminale date:
 
