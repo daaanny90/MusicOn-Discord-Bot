@@ -5,7 +5,7 @@ Un semplice bot che vi permetterà di gestire canzoni e playlist di Youtube in u
 ## Installazione :heavy_check_mark:
 
 1. Procuratevi prima di tutto il token per utilizzare l'app su Discord e una chiave API di Google.
-2. Modificate il file `auth.js` con i vostri dati
+2. Modificate il file `config.js` con i vostri dati
 3. Da un terminale date:
 
 ```
