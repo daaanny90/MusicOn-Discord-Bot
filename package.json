@@ -1,0 +1,14 @@
+{
+    "name": "MusicOn",
+    "version": "1.0.0",
+    "description": "Bot for Discord to play music",
+    "main": "bot.js",
+    "author": "Danny Spina",
+    "dependencies": {
+        "discord.js": "^11.3.2",
+        "node-opus": "^0.3.0",
+        "simple-youtube-api": "^5.0.2",
+        "winston": "^3.0.0",
+        "ytdl-core": "^0.20.4"
+    }
+}
